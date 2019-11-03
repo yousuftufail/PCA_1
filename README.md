@@ -4,7 +4,7 @@
 
 Here I present two examples of grains data sets (.csv file uploaded separetely).
 
-In first example, I have shown that the stron correlation between the length and the width of the dataset. In second example 
+In first example, I have shown that the strong correlation between the length and the width of the dataset. In second example 
  PCA is applied in order to make them uncorrelated. 
 
 # Following python modules are required.
